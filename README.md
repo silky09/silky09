@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with **NodeJS**
 
-- 💗 [I love Coding and Testing the website.](I love Coding and Testing the website.)
+- 💗 **I love Coding and Testing the website**
 
-- 😄 Pronouns: [She/Her](She/Her)
+- 😄 Pronouns: **She/Her**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **silkysantosh01@gmail.com**
 
-- 🥅 2022 Goals: [Learn more and develop my creativity!](Learn more and develop my creativity!)
+- 🥅 2022 Goals: **Learn more and develop my creativity!**
 
 - ⚡ Fun fact **I am creative and exploring new things 😁**
 
