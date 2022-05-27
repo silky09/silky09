@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silky09" alt="silky09" /></a> </p>
 
-- 🔭 I’m currently working as a **Freelancer (Software tester/Frontend developer)**
+- 🔭 I’m currently working as a **Freelancer (Software tester)**
 
-- 🌱 I’m currently learning **React and Javascript**
+- 🌱 I’m currently learning **Cypress**
 
-- 👯 I’m looking to collaborate on **any MERN project**
+- 👯 I’m looking to collaborate on **Cypress project**
 
-- 🤝 I’m looking for help with **NodeJS**
+- 🤝 I’m looking for help with **Selenium-Python**
 
 - 💗 **I love Coding and Testing the website**
 
